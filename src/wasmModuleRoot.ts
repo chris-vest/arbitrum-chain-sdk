@@ -94,7 +94,7 @@ const consensusReleases = [
     maxArbOSVersion: 51,
   },
   {
-    // https://github.com/OffchainLabs/nitro/releases/tag/consensus-v60-rc.5
+    // https://github.com/OffchainLabs/nitro/releases/tag/consensus-v60-rc.5 (Nitro v3.10.2)
     version: 60,
     wasmModuleRoot: '0x7a9e6a77354888257a9989ce0b6bb39df5fedf222d453932933fdf7a489cbb57',
     maxArbOSVersion: 60,
